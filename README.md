@@ -4,4 +4,4 @@ A Rocketseat me desafiou a recriar esse formulário, sua aplicação é no Figma
 
 - [Acesse o projeto finalizado, online](https://pablonicolino.github.io/Form-Mentoria/)
 
-- ![desafio](https://efficient-sloth-d85.notion.site/Criando-formul-rios-462826c68ea54d61b1eff955158d1a6d)
+- ![desafio](![image](https://github.com/PabloNicolino/Form-Mentoria/assets/103440908/0c03fd4c-2550-420f-85a4-61fc1b737e76)
